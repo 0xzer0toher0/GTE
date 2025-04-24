@@ -19,6 +19,11 @@ Proyek ini menggunakan `ethers.js` untuk interaksi blockchain
    cd gte-project
 3. ```bash
    npm init -y
-4.**install**
+4. **install** 
    ```bash
    npm install chalk@^4.1.2 dotenv@^16.5.0 ethers@^6.13.2 figlet@^1.7.0 inquirer@^8.2.6
+
+  
+5. **JOIN TELEGRAM**
+- [tele](https://t.me/ngadukbang) 
+
