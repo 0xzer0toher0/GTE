@@ -13,7 +13,7 @@ Proyek ini menggunakan `ethers.js` untuk interaksi blockchain
 
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/https://github.com/0xzer0toher0/GTE
+   git clone https://github.com/0xzer0toher0/GTE.git
 2. **Masuk ke direktori proyek:**
     ```bash
    cd gte-project
