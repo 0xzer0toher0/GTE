@@ -15,3 +15,11 @@ Proyek ini menggunakan `ethers.js` untuk interaksi blockchain, `inquirer` untuk 
 1. **Clone repository**:
    ```bash
    git clone https://github.com/https://github.com/0xzer0toher0/GTE
+2. **Masuk ke direktori proyek:**
+    ```bash
+   cd gte-project
+3. ```bash
+   npm init -y
+4.**install**
+   ```bash
+   npm install chalk@^4.1.2 dotenv@^16.5.0 ethers@^6.13.2 figlet@^1.7.0 inquirer@^8.2.6
