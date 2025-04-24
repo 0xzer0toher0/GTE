@@ -1,19 +1,17 @@
-Installation
-Clone the repository:
-bash
+# GTE BOT SWAP
 
-git clone https://github.com/your-username/gte-project.git
-cd gte-project
+Bot untuk auto swap di GTE
 
-Initialize the project:
-Create a package.json file:
-bash
+Proyek ini menggunakan `ethers.js` untuk interaksi blockchain, `inquirer` untuk antarmuka pengguna interaktif, dan `figlet` untuk membuat seni ASCII di terminal.
 
-npm init -y
+## Prerequisites
 
-Install dependencies:
-Install the required packages:
-bash
+- [Node.js](https://nodejs.org/) (v14 atau lebih tinggi)
+- [npm](https://www.npmjs.com/) (sudah termasuk dengan Node.js)
+- (Opsional) API Key dari [Infura](https://www.infura.io/) atau [Alchemy](https://www.alchemy.com/) untuk koneksi blockchain
 
-npm install chalk@^4.1.2 dotenv@^16.5.0 ethers@^6.13.2 figlet@^1.7.0 inquirer@^8.2.6
+## Installation
 
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/https://github.com/0xzer0toher0/GTE
