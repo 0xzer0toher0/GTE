@@ -2,13 +2,12 @@
 
 Bot untuk auto swap di GTE
 
-Proyek ini menggunakan `ethers.js` untuk interaksi blockchain, `inquirer` untuk antarmuka pengguna interaktif, dan `figlet` untuk membuat seni ASCII di terminal.
+Proyek ini menggunakan `ethers.js` untuk interaksi blockchain
 
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 atau lebih tinggi)
 - [npm](https://www.npmjs.com/) (sudah termasuk dengan Node.js)
-- (Opsional) API Key dari [Infura](https://www.infura.io/) atau [Alchemy](https://www.alchemy.com/) untuk koneksi blockchain
 
 ## Installation
 
